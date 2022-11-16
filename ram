@@ -1,0 +1,17 @@
+<html>
+<body>
+<table border="3">
+<tr>
+<th>sl.no</th>
+<th>Name</th>
+<tr>
+<td>1</td>
+<td>Asha</td></tr>
+<tr>
+<td>2</td>
+<td>Asma</td>
+</tr>
+</tr>
+</table>
+</body>
+</html>
